@@ -19,6 +19,7 @@
 		6EBFD20A291568E50066BED1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6EBFD20C291568E70066BED1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6EBFD20F291568E70066BED1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6EBFD216291569120066BED1 /* GeometricFigures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = GeometricFigures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +56,7 @@
 				6EBFD20A291568E50066BED1 /* ContentView.swift */,
 				6EBFD20C291568E70066BED1 /* Assets.xcassets */,
 				6EBFD20E291568E70066BED1 /* Preview Content */,
+				6EBFD216291569120066BED1 /* GeometricFigures.playground */,
 			);
 			path = GeometricFigures;
 			sourceTree = "<group>";
